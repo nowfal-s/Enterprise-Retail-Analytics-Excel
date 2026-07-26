@@ -1,0 +1,401 @@
+Employee_ID,Role,Store_ID
+1,Support,24
+2,Warehouse,75
+3,Sales Associate,72
+4,Support,36
+5,Support,38
+6,Warehouse,84
+7,Sales Associate,99
+8,Sales Associate,89
+9,Support,99
+10,Manager,25
+11,Support,93
+12,Support,18
+13,Support,82
+14,Support,66
+15,Warehouse,54
+16,Sales Associate,35
+17,Warehouse,80
+18,Warehouse,61
+19,Warehouse,41
+20,Support,100
+21,Manager,33
+22,Sales Associate,68
+23,Manager,33
+24,Warehouse,14
+25,Warehouse,21
+26,Manager,48
+27,Manager,20
+28,Manager,8
+29,Warehouse,7
+30,Warehouse,67
+31,Sales Associate,17
+32,Sales Associate,33
+33,Warehouse,48
+34,Manager,76
+35,Manager,59
+36,Sales Associate,86
+37,Warehouse,22
+38,Sales Associate,30
+39,Sales Associate,38
+40,Support,51
+41,Support,54
+42,Support,8
+43,Manager,27
+44,Warehouse,27
+45,Warehouse,98
+46,Warehouse,21
+47,Warehouse,30
+48,Support,97
+49,Manager,28
+50,Manager,64
+51,Support,97
+52,Manager,69
+53,Support,61
+54,Warehouse,48
+55,Support,19
+56,Warehouse,4
+57,Warehouse,35
+58,Sales Associate,64
+59,Support,49
+60,Sales Associate,17
+61,Support,44
+62,Support,92
+63,Sales Associate,30
+64,Sales Associate,93
+65,Support,46
+66,Manager,6
+67,Warehouse,99
+68,Sales Associate,37
+69,Warehouse,24
+70,Manager,93
+71,Manager,46
+72,Manager,53
+73,Sales Associate,95
+74,Manager,99
+75,Sales Associate,60
+76,Manager,97
+77,Warehouse,63
+78,Warehouse,85
+79,Support,32
+80,Warehouse,87
+81,Support,33
+82,Warehouse,67
+83,Sales Associate,18
+84,Warehouse,25
+85,Support,95
+86,Support,54
+87,Manager,58
+88,Sales Associate,67
+89,Warehouse,46
+90,Manager,24
+91,Warehouse,32
+92,Warehouse,47
+93,Manager,86
+94,Manager,23
+95,Manager,66
+96,Manager,27
+97,Manager,2
+98,Warehouse,90
+99,Manager,17
+100,Sales Associate,33
+101,Support,9
+102,Manager,43
+103,Manager,48
+104,Warehouse,39
+105,Manager,93
+106,Manager,42
+107,Manager,26
+108,Warehouse,99
+109,Manager,50
+110,Support,25
+111,Warehouse,24
+112,Support,13
+113,Warehouse,60
+114,Manager,7
+115,Support,57
+116,Warehouse,36
+117,Sales Associate,45
+118,Manager,20
+119,Warehouse,65
+120,Sales Associate,8
+121,Warehouse,16
+122,Sales Associate,14
+123,Manager,76
+124,Support,87
+125,Sales Associate,15
+126,Warehouse,92
+127,Manager,98
+128,Sales Associate,66
+129,Warehouse,32
+130,Warehouse,87
+131,Warehouse,63
+132,Sales Associate,86
+133,Sales Associate,51
+134,Sales Associate,25
+135,Support,58
+136,Sales Associate,63
+137,Sales Associate,62
+138,Sales Associate,22
+139,Support,58
+140,Sales Associate,58
+141,Warehouse,86
+142,Sales Associate,49
+143,Warehouse,52
+144,Warehouse,42
+145,Warehouse,70
+146,Support,15
+147,Support,54
+148,Support,60
+149,Sales Associate,97
+150,Warehouse,8
+151,Support,53
+152,Support,60
+153,Sales Associate,5
+154,Support,68
+155,Sales Associate,6
+156,Manager,96
+157,Support,94
+158,Manager,47
+159,Sales Associate,99
+160,Warehouse,55
+161,Support,40
+162,Sales Associate,52
+163,Warehouse,16
+164,Warehouse,13
+165,Manager,30
+166,Sales Associate,19
+167,Warehouse,17
+168,Support,63
+169,Support,19
+170,Manager,92
+171,Warehouse,58
+172,Sales Associate,55
+173,Support,90
+174,Warehouse,90
+175,Warehouse,62
+176,Manager,23
+177,Support,9
+178,Support,12
+179,Sales Associate,1
+180,Support,58
+181,Sales Associate,1
+182,Support,34
+183,Manager,96
+184,Support,48
+185,Sales Associate,89
+186,Sales Associate,1
+187,Manager,16
+188,Support,61
+189,Support,64
+190,Manager,63
+191,Support,69
+192,Support,22
+193,Sales Associate,93
+194,Support,67
+195,Support,76
+196,Manager,26
+197,Manager,16
+198,Warehouse,51
+199,Sales Associate,86
+200,Support,57
+201,Support,29
+202,Warehouse,78
+203,Support,92
+204,Sales Associate,69
+205,Warehouse,47
+206,Sales Associate,94
+207,Warehouse,62
+208,Warehouse,69
+209,Manager,76
+210,Sales Associate,16
+211,Support,90
+212,Support,90
+213,Sales Associate,48
+214,Support,85
+215,Support,39
+216,Sales Associate,100
+217,Warehouse,33
+218,Sales Associate,94
+219,Warehouse,23
+220,Support,10
+221,Support,69
+222,Support,100
+223,Manager,34
+224,Warehouse,52
+225,Manager,95
+226,Manager,10
+227,Sales Associate,19
+228,Manager,58
+229,Sales Associate,96
+230,Sales Associate,1
+231,Manager,69
+232,Warehouse,4
+233,Warehouse,16
+234,Warehouse,24
+235,Warehouse,80
+236,Warehouse,2
+237,Manager,92
+238,Manager,32
+239,Support,91
+240,Warehouse,84
+241,Manager,24
+242,Support,12
+243,Warehouse,50
+244,Sales Associate,35
+245,Support,33
+246,Manager,33
+247,Sales Associate,61
+248,Sales Associate,51
+249,Sales Associate,43
+250,Support,12
+251,Manager,67
+252,Sales Associate,65
+253,Warehouse,33
+254,Sales Associate,40
+255,Sales Associate,74
+256,Support,43
+257,Support,44
+258,Manager,29
+259,Warehouse,13
+260,Support,12
+261,Sales Associate,95
+262,Manager,46
+263,Sales Associate,2
+264,Sales Associate,35
+265,Support,87
+266,Manager,81
+267,Warehouse,90
+268,Warehouse,8
+269,Support,93
+270,Support,26
+271,Manager,74
+272,Warehouse,90
+273,Warehouse,34
+274,Warehouse,7
+275,Sales Associate,68
+276,Warehouse,58
+277,Sales Associate,75
+278,Manager,29
+279,Sales Associate,36
+280,Manager,89
+281,Warehouse,21
+282,Warehouse,36
+283,Manager,10
+284,Support,73
+285,Manager,24
+286,Support,64
+287,Sales Associate,99
+288,Sales Associate,49
+289,Sales Associate,99
+290,Warehouse,36
+291,Sales Associate,82
+292,Support,96
+293,Sales Associate,24
+294,Manager,23
+295,Manager,62
+296,Warehouse,96
+297,Manager,37
+298,Support,12
+299,Sales Associate,55
+300,Warehouse,13
+301,Sales Associate,23
+302,Sales Associate,89
+303,Support,99
+304,Manager,30
+305,Manager,17
+306,Sales Associate,62
+307,Warehouse,84
+308,Manager,89
+309,Warehouse,86
+310,Manager,13
+311,Warehouse,59
+312,Support,19
+313,Warehouse,49
+314,Support,100
+315,Support,12
+316,Warehouse,61
+317,Support,19
+318,Sales Associate,76
+319,Support,9
+320,Manager,71
+321,Warehouse,28
+322,Sales Associate,78
+323,Warehouse,95
+324,Manager,52
+325,Manager,83
+326,Manager,16
+327,Support,69
+328,Support,99
+329,Warehouse,12
+330,Warehouse,25
+331,Sales Associate,52
+332,Sales Associate,85
+333,Warehouse,100
+334,Support,53
+335,Manager,23
+336,Warehouse,16
+337,Sales Associate,57
+338,Support,39
+339,Warehouse,53
+340,Warehouse,42
+341,Support,58
+342,Warehouse,39
+343,Support,14
+344,Manager,95
+345,Support,5
+346,Support,35
+347,Support,87
+348,Warehouse,93
+349,Warehouse,75
+350,Support,18
+351,Warehouse,76
+352,Sales Associate,9
+353,Sales Associate,74
+354,Warehouse,58
+355,Warehouse,17
+356,Support,7
+357,Manager,46
+358,Warehouse,13
+359,Sales Associate,40
+360,Support,42
+361,Warehouse,9
+362,Sales Associate,50
+363,Sales Associate,27
+364,Manager,66
+365,Support,5
+366,Support,29
+367,Manager,37
+368,Manager,38
+369,Support,83
+370,Support,8
+371,Warehouse,65
+372,Warehouse,86
+373,Manager,17
+374,Warehouse,71
+375,Sales Associate,89
+376,Warehouse,45
+377,Warehouse,4
+378,Sales Associate,36
+379,Manager,70
+380,Sales Associate,31
+381,Warehouse,19
+382,Manager,61
+383,Warehouse,54
+384,Sales Associate,39
+385,Sales Associate,91
+386,Warehouse,74
+387,Support,90
+388,Support,19
+389,Sales Associate,39
+390,Sales Associate,67
+391,Support,45
+392,Support,13
+393,Warehouse,92
+394,Warehouse,58
+395,Support,20
+396,Warehouse,92
+397,Warehouse,72
+398,Manager,61
+399,Warehouse,39
+400,Sales Associate,1

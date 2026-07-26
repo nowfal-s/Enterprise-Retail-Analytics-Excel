@@ -1,0 +1,4 @@
+PaymentMethod_ID,Method
+1,Card
+2,UPI
+3,Cash
